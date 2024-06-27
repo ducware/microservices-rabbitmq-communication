@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1hS+UgctONAnUDXvXvL/q/OBIlrqmM0mS8sZr2YWh1K/9RPYKVduhHh+KTpgzZEMwvquQfWL7WBaprqw1S7V2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\duc\\OneDrive\\Desktop\\MSE\\src\\MSE\\MSE.User.Domain\\MSE.User.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duc\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\duc\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\duc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\duc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

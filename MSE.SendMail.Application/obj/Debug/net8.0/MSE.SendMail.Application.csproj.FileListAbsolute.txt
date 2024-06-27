@@ -1,0 +1,17 @@
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\bin\Debug\net8.0\MSE.SendMail.Application.deps.json
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\bin\Debug\net8.0\MSE.SendMail.Application.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\bin\Debug\net8.0\MSE.SendMail.Application.pdb
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\bin\Debug\net8.0\MSE.SendMail.Domain.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\bin\Debug\net8.0\MSE.SendMail.Domain.pdb
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\obj\Debug\net8.0\MSE.SendMail.Application.csproj.AssemblyReference.cache
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\obj\Debug\net8.0\MSE.SendMail.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\obj\Debug\net8.0\MSE.SendMail.Application.AssemblyInfoInputs.cache
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\obj\Debug\net8.0\MSE.SendMail.Application.AssemblyInfo.cs
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\obj\Debug\net8.0\MSE.SendMail.Application.csproj.CoreCompileInputs.cache
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\obj\Debug\net8.0\MSE.Send.F2C974D4.Up2Date
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\obj\Debug\net8.0\MSE.SendMail.Application.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\obj\Debug\net8.0\refint\MSE.SendMail.Application.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\obj\Debug\net8.0\MSE.SendMail.Application.pdb
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\obj\Debug\net8.0\ref\MSE.SendMail.Application.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\bin\Debug\net8.0\MSE.Common.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.SendMail.Application\bin\Debug\net8.0\MSE.Common.pdb

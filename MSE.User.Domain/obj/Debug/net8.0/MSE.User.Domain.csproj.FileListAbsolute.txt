@@ -1,0 +1,12 @@
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Domain\bin\Debug\net8.0\MSE.User.Domain.deps.json
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Domain\bin\Debug\net8.0\MSE.User.Domain.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Domain\bin\Debug\net8.0\MSE.User.Domain.pdb
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Domain\obj\Debug\net8.0\MSE.User.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Domain\obj\Debug\net8.0\MSE.User.Domain.AssemblyInfoInputs.cache
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Domain\obj\Debug\net8.0\MSE.User.Domain.AssemblyInfo.cs
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Domain\obj\Debug\net8.0\MSE.User.Domain.csproj.CoreCompileInputs.cache
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Domain\obj\Debug\net8.0\MSE.User.Domain.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Domain\obj\Debug\net8.0\refint\MSE.User.Domain.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Domain\obj\Debug\net8.0\MSE.User.Domain.pdb
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Domain\obj\Debug\net8.0\ref\MSE.User.Domain.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Domain\obj\Debug\net8.0\MSE.User.Domain.csproj.AssemblyReference.cache

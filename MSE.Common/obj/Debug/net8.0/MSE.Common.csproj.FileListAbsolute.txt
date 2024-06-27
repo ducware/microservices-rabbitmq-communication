@@ -1,0 +1,11 @@
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.Common\bin\Debug\net8.0\MSE.Common.deps.json
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.Common\bin\Debug\net8.0\MSE.Common.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.Common\bin\Debug\net8.0\MSE.Common.pdb
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.Common\obj\Debug\net8.0\MSE.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.Common\obj\Debug\net8.0\MSE.Common.AssemblyInfoInputs.cache
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.Common\obj\Debug\net8.0\MSE.Common.AssemblyInfo.cs
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.Common\obj\Debug\net8.0\MSE.Common.csproj.CoreCompileInputs.cache
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.Common\obj\Debug\net8.0\MSE.Common.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.Common\obj\Debug\net8.0\refint\MSE.Common.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.Common\obj\Debug\net8.0\MSE.Common.pdb
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.Common\obj\Debug\net8.0\ref\MSE.Common.dll

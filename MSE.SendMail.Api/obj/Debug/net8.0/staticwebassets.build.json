@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rg+Wi1Lker5/g8urE2AzSDhfTEMqpJvr78sCDN6s8S0=",
+  "Source": "MSE.SendMail.Api",
+  "BasePath": "_content/MSE.SendMail.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

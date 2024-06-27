@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nfNzGWFG6LbUkYr+fVm3wMluEIRUOaV0zPNLZDnAfBM=",
+  "Source": "MSE.User.Api",
+  "BasePath": "_content/MSE.User.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

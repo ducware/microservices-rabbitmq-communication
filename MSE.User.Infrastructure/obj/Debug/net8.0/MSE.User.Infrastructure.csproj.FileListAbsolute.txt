@@ -1,0 +1,17 @@
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\bin\Debug\net8.0\MSE.User.Infrastructure.deps.json
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\bin\Debug\net8.0\MSE.User.Infrastructure.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\bin\Debug\net8.0\MSE.User.Infrastructure.pdb
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\bin\Debug\net8.0\MSE.User.Domain.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\bin\Debug\net8.0\MSE.User.Domain.pdb
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\obj\Debug\net8.0\MSE.User.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\obj\Debug\net8.0\MSE.User.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\obj\Debug\net8.0\MSE.User.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\obj\Debug\net8.0\MSE.User.Infrastructure.AssemblyInfo.cs
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\obj\Debug\net8.0\MSE.User.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\obj\Debug\net8.0\MSE.User.6454E619.Up2Date
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\obj\Debug\net8.0\MSE.User.Infrastructure.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\obj\Debug\net8.0\refint\MSE.User.Infrastructure.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\obj\Debug\net8.0\MSE.User.Infrastructure.pdb
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\obj\Debug\net8.0\ref\MSE.User.Infrastructure.dll
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\bin\Debug\net8.0\MSE.User.Infrastructure.runtimeconfig.json
+C:\Users\duc\OneDrive\Desktop\MSE\src\MSE\MSE.User.Infrastructure\obj\Debug\net8.0\MSE.User.Infrastructure.genruntimeconfig.cache
