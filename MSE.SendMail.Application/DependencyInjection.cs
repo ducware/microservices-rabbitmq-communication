@@ -3,12 +3,12 @@ using MassTransit;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MSE.Common.Configurations;
+using MSE.Common.Constants;
 using MSE.SendMail.Application.Communicate;
 using MSE.SendMail.Application.Communicate.Users;
 using MSE.SendMail.Application.Configurations;
 using MSE.SendMail.Application.Services;
 using MSE.SendMail.Application.Services.Imp;
-using System.Net.Http;
 
 namespace MSE.SendMail.Application
 {
@@ -33,7 +33,7 @@ namespace MSE.SendMail.Application
                         h.Username(rabbitMqConfigs.Username);
                         h.Password(rabbitMqConfigs.Password);
                     });
-                    cfg.ReceiveEndpoint("UserAccount", ep =>
+                    cfg.ReceiveEndpoint(UtilConst.UserAccountQueue, ep =>
                     {
                         ep.PrefetchCount = 16;
                         ep.UseMessageRetry(r => r.Interval(2, 100));
@@ -52,9 +52,9 @@ namespace MSE.SendMail.Application
             services.AddScoped<IUserService, UserService>();
 
             // HttpClient
-            services.AddHttpClient("UserServiceClient", client =>
+            services.AddHttpClient(UtilConst.ApiGatewayClient, client =>
             {
-                client.BaseAddress = new Uri("https://localhost:44395/");
+                client.BaseAddress = new Uri(UtilConst.ApiGatewayUrl);
             });
 
 

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+gb/QLUkfGK4Oio8cTWstVxZU+d73B6u0t6tmmy/QWc=",
+  "Source": "MSE.Gateway.Api",
+  "BasePath": "_content/MSE.Gateway.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
